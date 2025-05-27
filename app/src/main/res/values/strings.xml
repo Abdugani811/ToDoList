@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="home_hello">👋🏻Hello...</string>
+    <string name="calendar_deys_name">Thur</string>
+    <string name="today_s_tasks">Today’s tasks</string>
+    <string name="search">Search</string>
+    <string name="add_task">Add Task</string>
+    <string name="decline">concel</string>
+    <string name="accept">add</string>
+    <string name="add_task_title">Add Task</string>
+    <string name="task_text">%s</string>
+    <string name="task_text_strike"><strike>%s</strike></string>
+    <string name="add_task_time">%02d:%02d %s</string>
+    <string name="update_task_title">text</string>
+</resources>
